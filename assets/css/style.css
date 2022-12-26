@@ -189,10 +189,7 @@ body{
     margin: 10px;
     border-radius: 5px;
 }
-/* EVENTOS/EDM */
-.body_eventos_edm{
-    
-}
+
 /* Responsive */
  @media  (max-width: 425px){
 .generos{
@@ -271,6 +268,7 @@ body{
     text-align: center;
    }
 }
+
 
 
  
